@@ -10,4 +10,5 @@ function validParentheses(arr){
     return isValid;
 }
 
-console.log(validParentheses('((()))'.split('')));
+var parentheses = '((()))';
+console.log(validParentheses(parentheses.split('')));
