@@ -8,6 +8,14 @@ class Person{
         this.weight = weight;
     }
 
+    displayName(){
+        console.log(this.name);
+    }
+
+    displayAge(){
+        console.log(this.age);
+    }
+
     displayWeight(){
         console.log(this.weight)
     }
@@ -21,10 +29,6 @@ class Programmer extends Person{
         this.language = language;
     }
 
-    displayAge(){
-        console.log(this.age);
-    }
-
     displayLanguage(){
         console.log(this.language);
     }
@@ -32,11 +36,12 @@ class Programmer extends Person{
 }
 
 let sally = new Person('Sally Jones', 21, 89);
+sally.displayName();
+sally.displayAge();
 sally.displayWeight();
 
 console.log('----------');
 
 let bucky = new Programmer('Bucky Roberts', 87, 250, 'JavaScript');
-bucky.displayWeight();
-bucky.displayAge();
+bucky.displayName();
 bucky.displayLanguage();
