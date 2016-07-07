@@ -1,8 +1,8 @@
 ![](http://i.imgur.com/vPUXp2n.png)
 
-# Courses
+# JavaScript Courses
 
-Note: This is just for me to keep track of all my lessons on YouTube, you can ignore this.
+Note: This repo is just for me to keep track of all my lessons on YouTube, you can ignore this.
 
 ## Basic Concepts
 
@@ -58,7 +58,7 @@ Overview of all the new features, syntax, and changes in ES6.
 
 ***
 
-## Using ES6
+### Using ES6
 
 To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
 - File > Settings > Languages & Frameworks > JavaScript
