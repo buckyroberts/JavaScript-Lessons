@@ -8,6 +8,26 @@ This is a collection of various lessons and code snippets from my JavaScript tut
 
 Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you can ignore this.
 
+- **Basic Concepts**
+  - callbacks
+  - closures
+  - equality
+  - objects
+  - promise
+  - prototypes
+  - recursion
+  - score
+
+- **Data Structures**
+  - arrays
+  - dictionaries
+  - hash tables
+  - linked list
+  - priority queue
+  - queue
+  - sets
+  - stacks
+
 - **ES6**
   - let and const
   - arrow functions
@@ -18,24 +38,6 @@ Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you c
   - spread operator
   - importing values from modules
   - classes
-- **Data Structures**
-  - arrays
-  - dictionaries
-  - hash tables
-  - linked list
-  - priority queue
-  - queue
-  - sets
-  - stacks
-- **Basic Concepts**
-  - callbacks
-  - closures
-  - equality
-  - objects
-  - promise
-  - prototypes
-  - recursion
-  - score
 
 ## Using ES6
 
