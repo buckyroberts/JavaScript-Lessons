@@ -9,10 +9,13 @@ class Person{
     }
 
     displayWeight(){
-        console.log(this.weight)
+        console.log(this.weight);
     }
 
 }
 
-let bucky = new Person('Bucky Roberts', 87, 250);
+let bucky = new Person('Bucky', 87, 6650);
+let sally = new Person('Sally', 21, 89);
+
 bucky.displayWeight();
+sally.displayWeight();
