@@ -1,9 +1,5 @@
 ![](http://i.imgur.com/vPUXp2n.png)
 
-# JavaScript Lessons
-
-This is a collection of various lessons and code snippets from my JavaScript tutorials.
-
 ## Course Outline
 
 Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, you can ignore this.

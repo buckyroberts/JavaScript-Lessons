@@ -14,5 +14,5 @@ class Person{
 
 }
 
-let bucky = new Person('Bucky Roberts', 87, 562);
+let bucky = new Person('Bucky Roberts', 87, 250);
 bucky.displayWeight();
