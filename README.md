@@ -6,7 +6,7 @@ This is a collection of various lessons and code snippets from my JavaScript tut
 
 ## Course Outline
 
-Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you can ignore this.
+Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, you can ignore this.
 
 - **Basic Concepts**
   - callbacks
