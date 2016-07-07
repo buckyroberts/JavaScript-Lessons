@@ -1,29 +1,62 @@
 ![](http://i.imgur.com/vPUXp2n.png)
 
-## Course Outline
+# Courses
 
-Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, you can ignore this.
+Note: This is just for me to keep track of all my lessons on YouTube, you can ignore this.
 
-- **Basic Concepts**
-  - callbacks
-  - closures
-  - equality
-  - objects
-  - promise
-  - prototypes
-  - recursion
-- **Data Structures**
-  - arrays
-  - dictionaries
-  - hash tables
-  - linked list
-  - priority queue
-  - queue
-  - sets
-  - stacks
-- **ES6**
-  - inheritance
-  - generators
+## Basic Concepts
+
+Miscellaneous concepts and topics that I haven't covered, but don't really fit in to any other course.
+
+- callbacks
+- closures
+- equality
+- objects
+- promise
+- prototypes
+
+## Data Structures
+
+Teach existing JavaScript data structures such as arrays, sets, and maps. Also teach how to implement other common data
+ structures/algorithms such as stacks, linked lists, trees, graphs, etc...
+
+- arrays
+  - joining multiple arrays
+  - iterator functions
+  - es6 array features
+  - sorting
+  - searching
+  - displaying as string
+- stacks
+- queue
+- priority queue
+- linked list
+- sets
+- dictionaries
+- hash tables
+- map
+- weakmap & weakset
+- trees
+- graphs
+- sorting algorithms
+- searching algorithms
+- recursion
+- greedy algorithms
+- big o / algorithm complexity
+
+## ES6 Features
+
+Overview of all the new features, syntax, and changes in ES6.
+
+- let
+- arrow functions
+- template literals
+- spread operator
+- classes
+- inheritance
+- generators
+
+***
 
 ## Using ES6
 
