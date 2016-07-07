@@ -30,7 +30,6 @@ Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, 
   - default parameters
   - enhanced object properties
   - destructuring
-  - spread operator
   - importing values from modules
   - classes
 
