@@ -17,7 +17,6 @@ Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, 
   - prototypes
   - recursion
   - score
-
 - **Data Structures**
   - arrays
   - dictionaries
@@ -27,7 +26,6 @@ Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, 
   - queue
   - sets
   - stacks
-
 - **ES6**
   - let and const
   - arrow functions
