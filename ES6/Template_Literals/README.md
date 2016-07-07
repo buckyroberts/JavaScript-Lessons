@@ -1,3 +1,3 @@
-# Title
+# Template literals
 
-Description
+Template literals are string literals allowing embedded expressions.
