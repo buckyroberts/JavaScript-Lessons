@@ -13,9 +13,6 @@ To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
 If your editor doesn't have ES6 support, you can follow along by creating a new pen at https://codepen.io/ and enabling
 "Babel" as the JavaScript Preprocessor.
 
-
-![](http://i.imgur.com/DzwwGYe.png)
-
 ## Course Outline
 
 Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you can ignore this.
