@@ -4,15 +4,6 @@
 
 This is a collection of various lessons and code snippets from my JavaScript tutorials.
 
-## Using ES6
-
-To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
-- File > Settings > Languages & Frameworks > JavaScript
-- Select EMCAScript 6
-
-If your editor doesn't have ES6 support, you can follow along by creating a new pen at https://codepen.io/ and enabling
-"Babel" as the JavaScript Preprocessor.
-
 ## Course Outline
 
 Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you can ignore this.
@@ -45,3 +36,12 @@ Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you c
   - prototypes
   - recursion
   - score
+
+## Using ES6
+
+To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
+- File > Settings > Languages & Frameworks > JavaScript
+- Select EMCAScript 6
+
+If your editor doesn't have ES6 support, you can follow along by creating a new pen at https://codepen.io/ and enabling
+"Babel" as the JavaScript Preprocessor.
