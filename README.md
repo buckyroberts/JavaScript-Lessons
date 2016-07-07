@@ -12,7 +12,6 @@ Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, 
   - promise
   - prototypes
   - recursion
-  - score
 - **Data Structures**
   - arrays
   - dictionaries
