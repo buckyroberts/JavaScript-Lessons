@@ -2,9 +2,31 @@
 
 # JavaScript Lessons
 
-Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube. You can ignore this.
+This is a collection of various lessons and code snippets from my JavaScript tutorials.
 
-- ES6
-  - Unordered sub-list
+## Using ES6
+
+To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
+- File > Settings > Languages & Frameworks > JavaScript
+- Select EMCAScript 6
+
+If your editor doesn't have ES6 support, you can follow along by creating a new pen at https://codepen.io/ and enabling
+"Babel" as the JavaScript Preprocessor.
+![](http://i.imgur.com/DzwwGYe.png)
+
+## Course Outline
+
+Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you can ignore this.
+
+- **ES6**
+  - let and const
+  - arrow functions
+  - default parameters
+  - template literals
+  - enhanced object properties
+  - destructuring
+  - spread operator
+  - importing values from modules
+  - classes
 - Test
 - Sample
