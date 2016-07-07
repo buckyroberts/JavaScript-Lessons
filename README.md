@@ -46,7 +46,8 @@ Teach existing JavaScript data structures such as arrays, sets, and maps. Also t
 
 ## ES6 Features
 
-[Video Tutorials](https://www.youtube.com/watch?v=ZJZfIw3P8No&index=1&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
+[Watch Video Tutorials](https://www.youtube.com/watch?v=ZJZfIw3P8No&index=1&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
+
 Overview of all the new features, syntax, and changes in ES6.
 
 - let
