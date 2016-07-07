@@ -7,21 +7,21 @@ function theNotebook() {
     return movie;
 }
 
-function randomFunction() {
-    let isFan = true;
-    let phrase = 'Bacon is good';
-    console.log('\nBefore if:', phrase);
-
-    if(isFan){
-        let phrase = 'I am a horse';
-        console.log('Inside if:', phrase);
-    }
-
-    console.log('After if:', phrase);
-}
-
 console.log(movie); // Good Will Hunting
 console.log(theNotebook()); // The Notebook
 console.log(movie); // Good Will Hunting
 
-randomFunction();
+function buckysFunction() {
+    let isHorse = true;
+    let saying = 'Bacon is good';
+    console.log('\nBefore if:', saying);
+
+    if(isHorse){
+        let saying = 'I am a horse';
+        console.log('Inside if:', saying);
+    }
+
+    console.log('After if:', saying);
+}
+
+buckysFunction();

@@ -1,19 +1,20 @@
 "use strict";
 
-var circleArea1 = function (r) {
+function circleArea(r) {
     var PI = 3.14;
-    var area = PI * r * r;
-    return area;
-};
+    return PI * r * r;
+}
 
-let circleArea2 = (r) => {
+// we can now leave out the "function" keyword
+let circleArea1 = (r) => {
     const PI = 3.14;
-    let area = PI * r * r;
-    return area;
+    return PI * r * r;
 };
 
-let circleArea3 = (r) => 3.14 * r * r;
+// parenthesis are optional is there is one parameter
+// we can also leave out the curly braces to return a value directly (without needing multiple statements)
+let circleArea2 = r => 3.14 * r * r;
 
+console.log(circleArea(7));
 console.log(circleArea1(7));
 console.log(circleArea2(7));
-console.log(circleArea3(7));
