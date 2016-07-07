@@ -30,5 +30,21 @@ Note: This is just for me *(Bucky)* to keep track of my lesson on YouTube, you c
   - spread operator
   - importing values from modules
   - classes
-- Test
-- Sample
+- **Data Structures**
+  - arrays
+  - dictionaries
+  - hash tables
+  - linked list
+  - priority queue
+  - queue
+  - sets
+  - stacks
+- **Basic Concepts**
+  - callbacks
+  - closures
+  - equality
+  - objects
+  - promise
+  - prototypes
+  - recursion
+  - score
