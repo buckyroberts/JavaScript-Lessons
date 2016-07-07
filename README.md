@@ -25,10 +25,6 @@ Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, 
 - **ES6**
   - inheritance
   - generators
-  - enhanced object properties
-  - destructuring
-  - importing values from modules
-  - classes
 
 ## Using ES6
 
