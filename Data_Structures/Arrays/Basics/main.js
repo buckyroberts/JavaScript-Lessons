@@ -41,3 +41,9 @@ console.log(food);
 var pos = 1;
 food.splice(pos, 1);
 console.log(food);
+
+console.log('--------------------');
+
+let numbers = [10, 32, 53, 99, 60];
+console.log(numbers.toString()); // comma separated list
+console.log(numbers.join('~')); // to use a different separator
