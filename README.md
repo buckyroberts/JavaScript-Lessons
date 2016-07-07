@@ -1,6 +1,6 @@
-![](http://i.imgur.com/vPUXp2n.png)
+![](http://i.imgur.com/BgUMUGU.png)
 
-# JavaScript Courses
+# Course Outlines
 
 Note: This repo is just for me to keep track of all my lessons on YouTube, you can ignore this.
 
@@ -63,6 +63,3 @@ Overview of all the new features, syntax, and changes in ES6.
 To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
 - File > Settings > Languages & Frameworks > JavaScript
 - Select EMCAScript 6
-
-If your editor doesn't have ES6 support, you can follow along by creating a new pen at https://codepen.io/ and enabling
-"Babel" as the JavaScript Preprocessor.
