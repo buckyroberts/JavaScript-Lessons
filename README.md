@@ -1,4 +1,4 @@
-![](http://i.imgur.com/BgUMUGU.png)
+![](http://i.imgur.com/jVYUayw.png)
 
 # Course Outlines
 
