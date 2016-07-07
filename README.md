@@ -27,7 +27,6 @@ Note: This is just for me *(Bucky)* to keep track of all my lessons on YouTube, 
   - sets
   - stacks
 - **ES6**
-  - default parameters
   - enhanced object properties
   - destructuring
   - importing values from modules
