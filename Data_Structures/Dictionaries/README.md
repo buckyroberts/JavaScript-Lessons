@@ -25,9 +25,9 @@ In an dictionary we can do 4 basic actions, (please notice that as we did in our
 });*  
 - **Reassign**: Sometimes we wish to change the value to some key in this case we use this syntax:  
 *dict.keyname1 = "valuename1";*   
-- Remove or delete: The best way to remove a property from a dictionary is to use the *delete* keyword:  
+- **Remove or delete:** The best way to remove a property from a dictionary is to use the *delete* keyword:  
 *delete dict["keyname"];*  
-- Lookup:  Thats is just an elaborate way to say that we wish to check, (to get actually), a value that is associated to a specific key. for example here we wish to prin the value of the key "keyname1" from the dictionary "dict":  
+- **Lookup:**  Thats is just an elaborate way to say that we wish to check, (to get actually), a value that is associated to a specific key. for example here we wish to prin the value of the key "keyname1" from the dictionary "dict":  
 *console.log(dict['keyname1']);*
   
 Sometimes instead of add or reassign there is a single set operation that adds a new (key,value) pair if one does not already exist, and otherwise reassigns it. 
