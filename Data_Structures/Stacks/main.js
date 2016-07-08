@@ -3,7 +3,7 @@
 function Stack() {
     let items = [];
 
-    // remove all items in the stack
+    // remove all items
     this.clear = function () {
         items = [];
     };
@@ -13,9 +13,14 @@ function Stack() {
         return items.length == 0;
     };
 
-    // return last item added to stack
+    // return last item added
     this.peek = function () {
         return items[items.length - 1];
+    };
+
+    // remove last item from end
+    this.pop = function () {
+        return items.pop();
     };
 
     // display all items
@@ -23,15 +28,15 @@ function Stack() {
         console.log(items.toString());
     };
 
-    // add item to end of stack
+    // add item to end
     this.push = function (element) {
         items.push(element);
     };
 
-    // remove last item from stack
-    this.pop = function () {
-        return items.pop();
-    }
+    // get size of stack
+    this.size = function () {
+        return items.length;
+    };
 
 }
 
@@ -42,7 +47,11 @@ buckysStack.push(87);
 buckysStack.push(29);
 buckysStack.push(71);
 buckysStack.print();
+
+console.log('--------------------');
+
 console.log(buckysStack.peek());
+console.log(buckysStack.size());
 
 console.log('--------------------');
 
