@@ -13,7 +13,7 @@ function Stack() {
         return items.length == 0;
     };
 
-    // view last item added to stack
+    // return last item added to stack
     this.peek = function () {
         return items[items.length - 1];
     };
@@ -39,8 +39,13 @@ let buckysStack = new Stack();
 console.log(buckysStack.isEmpty());
 
 buckysStack.push(87);
-buckysStack.push(71);
-
-console.log(buckysStack.peek());
 buckysStack.push(29);
+buckysStack.push(71);
 buckysStack.print();
+console.log(buckysStack.peek());
+
+console.log('--------------------');
+
+console.log(buckysStack.isEmpty());
+buckysStack.clear();
+console.log(buckysStack.isEmpty());
