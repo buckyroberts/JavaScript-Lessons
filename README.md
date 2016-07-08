@@ -1,4 +1,4 @@
-![](http://i.imgur.com/BgUMUGU.png)
+![](http://i.imgur.com/jVYUayw.png)
 
 # Course Outlines
 
@@ -46,6 +46,8 @@ Teach existing JavaScript data structures such as arrays, sets, and maps. Also t
 
 ## ES6 Features
 
+[Watch Video Tutorials](https://www.youtube.com/watch?v=ZJZfIw3P8No&index=1&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt)
+
 Overview of all the new features, syntax, and changes in ES6.
 
 - let
@@ -58,8 +60,18 @@ Overview of all the new features, syntax, and changes in ES6.
 
 ***
 
-### Using ES6
+## Using ES6
 
 To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
 - File > Settings > Languages & Frameworks > JavaScript
 - Select EMCAScript 6
+
+
+## Links
+
+- [Support](https://www.patreon.com/thenewboston)
+- [thenewboston.com](https://thenewboston.com/)
+- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
+- [Twitter](https://twitter.com/bucky_roberts)
+- [Google+](https://plus.google.com/+BuckyRoberts)
+- [reddit](https://www.reddit.com/r/thenewboston/)
