@@ -60,8 +60,18 @@ Overview of all the new features, syntax, and changes in ES6.
 
 ***
 
-### Using ES6
+## Using ES6
 
 To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
 - File > Settings > Languages & Frameworks > JavaScript
 - Select EMCAScript 6
+
+
+## Links
+
+- [Support](https://www.patreon.com/thenewboston)
+- [thenewboston.com](https://thenewboston.com/)
+- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
+- [Twitter](https://twitter.com/bucky_roberts)
+- [Google+](https://plus.google.com/+BuckyRoberts)
+- [reddit](https://www.reddit.com/r/thenewboston/)
