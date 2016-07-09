@@ -1,10 +1,13 @@
 ![](http://i.imgur.com/BgUMUGU.png)    
  
-# Constants
-
-The const declaration creates a read-only reference to a value. It does not mean the value it holds is immutable, just
-that the variable identifier cannot be reassigned.  
+# Objects
   
+This MD file serves as example/template. 
+
+It will be filled up soon.  
+
+(for Bucky to fill up)     
+
 
 # Course Documentation
 

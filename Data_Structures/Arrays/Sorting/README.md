@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/BgUMUGU.png)
 
-# Course description, (maybe title of the lesson instead of course description.)
+# Sorting
 This MD file serves as example/template. It will be filled up soon.
 
 (for Bucky to fill up)   

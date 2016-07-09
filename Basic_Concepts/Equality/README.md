@@ -1,9 +1,9 @@
-![](http://i.imgur.com/BgUMUGU.png)
+![](http://i.imgur.com/BgUMUGU.png)    
+ 
+# Equality
+  
+Equality description        
 
-# Searching
-This MD file serves as example/template. It will be filled up soon.
-
-(for Bucky to fill up)   
 
 # Course Documentation
 
@@ -13,6 +13,6 @@ This MD file serves as example/template. It will be filled up soon.
 
 (for example console.log)
 
-=Links
-	-Wikipedia
-	-anotherlink,com
+***Links***  
+ - Wikipedia    	
+ - Anotherlink,com
