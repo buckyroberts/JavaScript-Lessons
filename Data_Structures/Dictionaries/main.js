@@ -30,12 +30,16 @@ function Dictionary() {
         return items;
     };
 
-    this.size = function () {};
+    // to return the size of the array, you calculate the size of all the keys
+    this.size = function () {
+        return Object.keys(items).length;
+    };
 
     this.keys = function () {
         return Object.keys(items);
     };
 
+    // to return an array of values only, iterate through all items and access values via the keys
     this.values = function () {
         var values = [];
         for(var k in items){
@@ -53,7 +57,6 @@ var dict = new Dictionary();
 dict.set('Bucky', 'bucky@hotmail.com');
 dict.set('Sally', 'sally@gmail.com');
 dict.set('Tuna', 'tuna@aol.com');
-
 console.log(dict.keys());
 console.log(dict.values());
 console.log(dict.get('Bucky'));
@@ -67,3 +70,4 @@ console.log(dict.values());
 console.log('----------');
 
 console.log(dict.getItems());
+console.log(dict.size());
