@@ -17,8 +17,9 @@ Miscellaneous concepts and topics that I haven't covered, but don't really fit i
 
 ## Data Structures
 
-Teach existing JavaScript data structures such as arrays, sets, and maps. Also teach how to implement other common data
- structures/algorithms such as stacks, linked lists, trees, graphs, etc...
+A data structure is a particular way of organizing data in a computer so that it can be used efficiently. Course will
+cover existing JavaScript data structures such as arrays, sets, and maps. Topics also include how to implement other
+common data structures/algorithms such as stacks, linked lists, trees, graphs, etc...
 
 - arrays
   - joining multiple arrays
