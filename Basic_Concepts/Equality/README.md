@@ -2,17 +2,41 @@
  
 # Equality
   
-Equality description        
+Equality is when we use comparison  operators to find out if both left and right compared value are equal, (AKA the same).       
 
 
 # Course Documentation
 
-(this for me to fill up with every element that you use in lessons. syntax explaination and links for more)  
 
-## Element to explain
+## Comparison, (and logical), Operators
 
-(for example console.log)
+In the code that we used  
+  
 
-***Links***  
- - Wikipedia    	
- - Anotherlink,com
+    var a = '26';
+    var b = 26;
+    
+    console.log(a==b); // true (only checks value)
+    console.log(a===b); // false (compares type as well)
+
+  
+  Things are straight forward, as we explain the use of equal sign as comparison  operator to find out if:
+    
+ **a==b** the values in both a and b, (variables) are the same  
+ and  
+ **a===b** both the values and the type of a and b variables are the same.
+  
+In order to have a better understanding of logical operators here are few more examples of comparison and logical operators.  
+  
+
+-  **!=**	not equal  values between a and b (left and right variable/statement).
+-   **!==**	not equal value or not equal type  between a and b (left and right variable/statement).
+-   **>**	Left statement greater than right statement. 
+-   **<** Left statement 	less than right statement. 
+-   **>=** 	left statement greater than or equal to right  statement.   and
+-   **<=**	 Left statement less than or equal to right statement.
+
+For more informations please visit the documentation page of w3schools [about comparison and logical operators](http://www.w3schools.com/js/js_comparisons.asp).  
+
+
+> Written with [StackEdit](https://stackedit.io/).
