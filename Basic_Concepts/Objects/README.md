@@ -2,25 +2,40 @@
  
 # Objects
   
-This MD file serves as example/template. 
-
-It will be filled up soon.  
-
-(for Bucky to fill up)     
+Objects are variables that are storing more values, (properties). Objects are a part of the world of Object Oriented Programming, a way of programming that is highly recommended to learn more about it.
 
 
 # Course Documentation
+  
 
-(this for me to fill up with every element 
+## Objects
 
-that you use in lessons. syntax 
+In our example for objects we used the following code:  
+  
 
-explaination and links for more)  
+    var person = {
+        name: "Bucky",
+        age: 87
+    }; 
 
-## Element to explain
+   
+  That is the typical syntax of  javascripts object as well:
+    
+    var objectname = {
+	    property1: "property1valueinstringformat",
+	    property2: property2valueinarithmeticformat
+	    };
 
-(for example console.log)
+We achieve to insert more values in one variable by turning it to an object and by use the "property" format to each of our value
+	
 
-***Links***  
- - Wikipedia  
- - Anotherlink,com
+	    { property: valueofproperty };
+
+  Curley brackets are defining the are of the properties, and also they defining that our variable is an object, and we separate our properties with the comma symbol.
+
+ - Read more about [Object Oriented
+   Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+ - in Wikipedia Read more about [Javascript
+   Objects](http://www.w3schools.com/js/js_objects.asp) in W3schools
+
+> Written with [StackEdit](https://stackedit.io/).
