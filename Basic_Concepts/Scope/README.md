@@ -2,7 +2,8 @@
  
 # Scope
   
-According [Wikipedia](https://en.wikipedia.org/wiki/Variable_%28computer_science%29#Scope_and_extent): 
+According [Wikipedia](https://en.wikipedia.org/wiki/Variable_%28computer_science%29#Scope_and_extent):  
+
 *"Scope is an important part of the name resolution of a variable. Most languages define a specific scope for each variable (as well as any other named entity), which may differ within a given program. The scope of a variable is the portion of the program code for which the variable's name has meaning and for which the variable is said to be "visible"."*   
 
 
