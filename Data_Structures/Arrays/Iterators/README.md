@@ -1,17 +1,24 @@
 ![](http://i.imgur.com/BgUMUGU.png)
 
 # Iterators
-This MD file serves as example/template. It will be filled up soon.
+**Simple Iteration**  
+The way to iterate elements in javascript arrays is pretty straight forward:  
 
-(for Bucky to fill up)   
+    console.log(food[2]);  
+
+Array values are retrieved by index (starting at 0 not 1).  
+  
+**Iteration through loop**  
+The best way to iterate an array is mathematically through a loop, like the example bellow:   
+
+    // you can iterate over an array to access each individual element
+    for(var i=0; i<food.length; i++){
+        console.log(i, food[i]);
+    }  
+  
+  
 
 # Course Documentation
-
-(this for me to fill up with every element that you use in lessons. syntax explaination and links for more)  
-
-## Element to explain
-
-(for example console.log)
 
 ##Javascript functions
 
