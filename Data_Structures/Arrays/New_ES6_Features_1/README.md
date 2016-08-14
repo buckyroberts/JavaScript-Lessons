@@ -1,10 +1,16 @@
 ![](http://i.imgur.com/BgUMUGU.png)
 
-# New ES6 features part 1
-This MD file serves as example/template. It will be filled up soon.
+# New ES6 features part 1 
+According to [Wikipedia](https://en.wikipedia.org/wiki/ECMAScript):  
+ECMAScript (or ES) is a trademarked scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. It was based on JavaScript, which now tracks ECMAScript. It is commonly used for client-side scripting on the World Wide Web.  
+  
+   
+##6th Edition - ECMAScript 2015
+According to [Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#6th_Edition_-_ECMAScript_2015):  
+The 6th edition, officially known as ECMAScript 2015, was finalized in June 2015. This update adds significant new syntax for writing complex applications, including classes and modules, but defines them semantically in the same terms as ECMAScript 5 strict mode. Other new features include iterators and for/of loops, Python-style generators and generator expressions, arrow functions, binary data, typed arrays, collections (maps, sets and weak maps), promises, number and math enhancements, reflection, and proxies (metaprogramming for virtual objects and wrappers). The complete list is extensive.  
 
-(for Bucky to fill up)   
-
+Browser support for ES6 is still incomplete. However, ES6 code can be transpiled into ES5 code, which has more consistent support across browsers.  Transpiling adds an extra step to your build process whereas polyfills allow you to add extra functionalities by including another javascript file.    
+  
 # Course Documentation
 
 (this for me to fill up with every element that you use in lessons. syntax explaination and links for more)  
