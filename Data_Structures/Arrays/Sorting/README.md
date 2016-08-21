@@ -1,17 +1,44 @@
 ![](http://i.imgur.com/BgUMUGU.png)
 
 # Sorting
-This MD file serves as example/template. It will be filled up soon.
+Sometimes we need to sort the stored values of our array. In order to do that we usually use the .sort() function:
+  
 
-(for Bucky to fill up)   
+    console.log(items.sort()); 
 
 # Course Documentation
 
-(this for me to fill up with every element that you use in lessons. syntax explaination and links for more)  
+## .sort()
 
-## Element to explain
+According to [w3schools](http://www.w3schools.com/jsref/jsref_sort.asp):  
+  
+ "The sort() method sorts the items of an array.
+The sort order can be either alphabetic or numeric, and either ascending (up) or descending (down).
+By default, the sort() method sorts the values as strings in alphabetical and ascending order.
+This works well for strings ("Apple" comes before "Banana"). **However, if numbers are sorted as strings, "25" is bigger than "100", because "2" is bigger than "1".**
+Because of this, the sort() method will produce an incorrect result when sorting numbers.
+You can fix this by providing a "compare function" (See "Parameter Values" below)." 
 
-(for example console.log)
+    let items = [1, 10, 17, 18, 2, 7, 3, 19, 14, 5];
+    console.log(items.reverse());
+    
+    // not what we wanted, because it sorts the numbers as if they are all strings
+    console.log(items.sort());
+
+###compareFunction
+
+Optional. A function that defines an alternative sort order. The function should return a negative, zero, or positive value, depending on the arguments, like:
+
+    function(a, b){return a-b}
+
+When the sort() method compares two values, it sends the values to the compare function, and sorts the values according to the returned (negative, zero, positive) value.
+
+    items.sort(function (a, b) {
+        return a - b;
+    });
+    console.log(items);
+
+[Read more about sort() function on W3schools](http://www.w3schools.com/jsref/jsref_sort.asp).
 
 ##Javascript functions
 
@@ -124,4 +151,6 @@ stack in order to remove things from it.
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
+  
+
 > Written with [StackEdit](https://stackedit.io/).
