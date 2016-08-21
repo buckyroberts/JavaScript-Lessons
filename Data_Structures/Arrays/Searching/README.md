@@ -1,17 +1,28 @@
 ![](http://i.imgur.com/BgUMUGU.png)
 
 # Searching
-This MD file serves as example/template. It will be filled up soon.
-
-(for Bucky to fill up)   
+In order to iterate an array more efficiently sometimes we have to search for the value instead of the place. The function **indexof()** helps us with that
 
 # Course Documentation
 
-(this for me to fill up with every element that you use in lessons. syntax explaination and links for more)  
 
-## Element to explain
+## .indexof()
+In our example:
+  
 
-(for example console.log)
+    let items = [40, 68, 58, 12, 80, 37, 13, 63, 42, 3, 58];
+    console.log(items.indexOf(12)); // 3
+    console.log(items.indexOf(99)); // -1 (not found)
+    console.log(items.indexOf(58)); // 2
+    console.log(items.lastIndexOf(58)); // 10  
+
+  
+it is pretty forward that we use the function **.indexOF()** to find a specific value that is stored in our array.  
+For finding the value "a" in the array "anarray" we are using the following syntax:  
+
+    anarray.indexOF("a")  
+
+  
 
 ##Javascript functions
 
@@ -125,4 +136,5 @@ stack in order to remove things from it.
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
+
 > Written with [StackEdit](https://stackedit.io/).
