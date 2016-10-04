@@ -18,7 +18,7 @@ The basic syntax of Jquery is:
 
 which  
 
- - The sign $ defines that we will work will work with jQuery.   
+ - The sign $ defines that we will work with jQuery.   
  - The selector that defines what will activate our action   
  - And the action of course that we wish to use. the best way to describe an action is to describe it as an special function that comes from jQuery and interacts with an element of our code.
 
