@@ -6,8 +6,6 @@ A dictionary (also known as a map) is used to store key, value pairs.
 
 #Documentation
 
-Here lies further explaination for the elements that were used in the examples. 
-
 ##Dictionaries    
 
 **According to wikipedia:**  
@@ -75,5 +73,6 @@ Inside the function, the arguments behave as local variables.
 - [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+- [reddit](https://www.reddit.com/r/thenewboston/)  
+  
 > Written with [StackEdit](https://stackedit.io/).

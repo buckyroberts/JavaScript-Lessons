@@ -124,4 +124,5 @@ stack in order to remove things from it.
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)  
+   
 > Written with [StackEdit](https://stackedit.io/).

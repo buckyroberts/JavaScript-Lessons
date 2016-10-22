@@ -1,17 +1,6 @@
 ![](http://i.imgur.com/BgUMUGU.png)
 
 # Graphs
-This MD file serves as example/template. It will be filled up soon.
-
-(for Bucky to fill up)   
-
-# Course Documentation
-
-(this for me to fill up with every element that you use in lessons. syntax explaination and links for more)  
-
-## Element to explain
-
-(for example console.log)
 
 ##Javascript functions
 
@@ -56,5 +45,6 @@ Inside the function, the arguments behave as local variables.
 - [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+- [reddit](https://www.reddit.com/r/thenewboston/)  
+  
 > Written with [StackEdit](https://stackedit.io/).

@@ -1,6 +1,6 @@
 # Trees
 
-Description
+A way to organize our data structure. It is called tree because it looks like a tree.
 
 ##Javascript functions
 
@@ -45,5 +45,6 @@ Inside the function, the arguments behave as local variables.
 - [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+- [reddit](https://www.reddit.com/r/thenewboston/)  
+  
 > Written with [StackEdit](https://stackedit.io/).
