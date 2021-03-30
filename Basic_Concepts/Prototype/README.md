@@ -1,19 +1,16 @@
-![](http://i.imgur.com/BgUMUGU.png)    
- 
-# Prototype 
+![JavaScript Lessons](http://i.imgur.com/BgUMUGU.png)
 
-According to [W3schools](http://www.w3schools.com/js/js_object_prototypes.asp): 
+# Prototype
+
+According to [W3schools](http://www.w3schools.com/js/js_object_prototypes.asp):
 Every JavaScript object has a prototype. The prototype is also an object.
 All JavaScript objects inherit their properties and methods from their prototype.  
 
-
-
 # Course Documentation
- 
 
 ## Javascript prototypes
 
-According to [W3schools](http://www.w3schools.com/js/js_object_prototypes.asp): 
+According to [W3schools](http://www.w3schools.com/js/js_object_prototypes.asp):
 **Every JavaScript object has a prototype. The prototype is also an object.**
 
     Person.prototype.getName = function () {
@@ -40,7 +37,6 @@ All JavaScript objects (Date, Array, RegExp, Function, ....) inherit from the Ob
 
 In our example for objects we used the following code:  
   
-
     Person.prototype.getName = function () {
         return this.firstName + " " + this.lastName;
     };
@@ -48,9 +44,8 @@ In our example for objects we used the following code:
     var bucky = new Person('Bucky', 'Roberts');
     var emily = new Person('Emily', 'Jones');
 
-   
   That is the typical syntax of  javascripts object as well:
-    
+
     var objectname = {
 	    property1: "property1valueinstringformat",
 	    property2: property2valueinarithmeticformat
@@ -58,19 +53,16 @@ In our example for objects we used the following code:
 
 We achieve to insert more values in one variable by turning it to an object and by use the "property" format to each of our value
 	
-
 	    { property: valueofproperty };
 
   Curley brackets are defining the are of the properties, and also they defining that our variable is an object, and we separate our properties with the comma symbol.
 
- - Read more about [Object Oriented
+- Read more about [Object Oriented
    Programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
- - in Wikipedia Read more about [Javascript
+- in Wikipedia Read more about [Javascript
    Objects](http://www.w3schools.com/js/js_objects.asp) in W3schools
 
-
-
-##Javascript functions
+## Javascript functions
 
 According to W3schools:  
   
@@ -82,7 +74,7 @@ A JavaScript function is executed when "something" invokes it (calls it).
         return p1 * p2;              // The function returns the product of p1 and p2
     }
 
-###**JavaScript Function Syntax**  
+### JavaScript Function Syntax
   
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
@@ -93,11 +85,9 @@ The parentheses may include parameter names separated by commas:
 
 The code to be executed, by the function, is placed inside curly brackets: {}  
 
-      
     function name(parameter1, parameter2, parameter3) {
         code to be executed
     }
-
 
 Function **parameters** are the **names** listed in the function definition.
 
@@ -105,8 +95,9 @@ Function **arguments** are the real **values** received by the function when it 
 
 Inside the function, the arguments behave as local variables.
 
-#The New Boston   
-## Links  
+# The New Boston
+
+## Links
 
 - [Support](https://www.patreon.com/thenewboston)
 - [thenewboston.com](https://thenewboston.com/)
@@ -114,4 +105,5 @@ Inside the function, the arguments behave as local variables.
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
-> Written with [StackEdit](https://stackedit.io/).
+
+> Written with [StackEdit](https://stackedit.io/)

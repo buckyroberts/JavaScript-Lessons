@@ -1,6 +1,6 @@
-![](http://i.imgur.com/jVYUayw.png)
+![JavaScript Lessons](http://i.imgur.com/jVYUayw.png)
 
-# Course Outlines
+## Course Outlines
 
 Note: This repo is just for me to keep track of all my lessons on YouTube, you can ignore this.
 
@@ -59,14 +59,12 @@ Overview of all the new features, syntax, and changes in ES6.
 - inheritance
 - generators
 
-***
-
 ## Using ES6
 
 To enable ES6 support in any JetBrains IDE *(such as WebStorm)*:
+
 - File > Settings > Languages & Frameworks > JavaScript
 - Select EMCAScript 6
-
 
 ## Links
 
