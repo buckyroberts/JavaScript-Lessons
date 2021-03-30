@@ -1,13 +1,11 @@
+![JavaScript Lessons](http://i.imgur.com/BgUMUGU.png)
 
-![](http://i.imgur.com/BgUMUGU.png)    
- 
 # Callback
   
 A callback is a function that is called after another function is done executing.
-Good for when you are making API calls, and want function to run only after data is retrieved from server.    
+Good for when you are making API calls, and want function to run only after data is retrieved from server.
 
-
-# Course Documentation 
+# Course Documentation
 
 ## JQuery
 
@@ -18,9 +16,9 @@ The basic syntax of Jquery is:
 
 which  
 
- - The sign $ defines that we will work will work with jQuery.   
- - The selector that defines what will activate our action   
- - And the action of course that we wish to use. the best way to describe an action is to describe it as an special function that comes from jQuery and interacts with an element of our code.
+- The sign $ defines that we will work will work with jQuery.
+- The selector that defines what will activate our action
+- And the action of course that we wish to use. the best way to describe an action is to describe it as an special function that comes from jQuery and interacts with an element of our code.
 
 for this example:  
 
@@ -30,13 +28,13 @@ for this example:
                 });
             });  
 
-We used the *.click* and the *.hide* action.   
+We used the *.click* and the *.hide* action.
 The *.click* activates a function or another action when we click the selector.  
 The *.hide* action hides the area that is defined by the selector.  
   
 For more information check the [W2schools' documentation on jQuery](http://www.w3schools.com/jquery/jquery_syntax.asp)
 
-##Javascript functions
+## Javascript functions
 
 According to W3schools:  
   
@@ -48,7 +46,7 @@ A JavaScript function is executed when "something" invokes it (calls it).
         return p1 * p2;              // The function returns the product of p1 and p2
     }
 
-###**JavaScript Function Syntax**  
+### JavaScript Function Syntax
   
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
@@ -59,11 +57,9 @@ The parentheses may include parameter names separated by commas:
 
 The code to be executed, by the function, is placed inside curly brackets: {}  
 
-      
     function name(parameter1, parameter2, parameter3) {
         code to be executed
     }
-
 
 Function **parameters** are the **names** listed in the function definition.
 
@@ -71,8 +67,9 @@ Function **arguments** are the real **values** received by the function when it 
 
 Inside the function, the arguments behave as local variables.
 
-#The New Boston   
-## Links  
+# The New Boston
+
+## Links
 
 - [Support](https://www.patreon.com/thenewboston)
 - [thenewboston.com](https://thenewboston.com/)
@@ -80,4 +77,5 @@ Inside the function, the arguments behave as local variables.
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
-> Written with [StackEdit](https://stackedit.io/).
+
+> Written with [StackEdit](https://stackedit.io/)

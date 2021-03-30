@@ -1,7 +1,7 @@
 
-![](http://i.imgur.com/BgUMUGU.png)    
- 
-## Closures
+![JavaScript Lessons](http://i.imgur.com/BgUMUGU.png)
+
+# Closures
 
 Closures are functions that refer to independent (free) variables (variables that are used locally, but defined in an
 enclosing scope). In other words, these functions 'remember' the environment in which they were created.  
@@ -14,28 +14,24 @@ Variables are the names of the places that some value is stored and the most typ
 
     var variablesname = valueofvariable;
 
-  
 and after the creation we are typically changing the value with this syntax:  
 
     variablesname = newvalueforthevariable;
 
-  
 And if it is not clear the easiest thing in the world is to access the variable just by writing the variable there where we will use its value:  
 
     console.log(variablesname)
 
-  
 Scope on the other hand is about variable's inheritance, (with other words how accessible can a variable be). Typically it has two levels:
 
- - **Global** External variable when every function can access it.
- -  **Local** Internal variable when only the function that
+- **Global** External variable when every function can access it.
+- **Local** Internal variable when only the function that
 
-  
 In our example we used things like this. to manipulate our variables in a special way. This is called a JavaScript closure. It makes it possible for a function to have "private" variables or use private variables in a special way. (see Objected Oriented Programming or Classes.)  
   
 For more information please check the [W3schools Javascript closures' documentation page](http://www.w3schools.com/js/js_function_closures.asp).
 
-##Javascript functions
+## Javascript functions
 
 According to W3schools:  
   
@@ -47,7 +43,7 @@ A JavaScript function is executed when "something" invokes it (calls it).
         return p1 * p2;              // The function returns the product of p1 and p2
     }
 
-###**JavaScript Function Syntax**  
+### JavaScript Function Syntax
   
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
@@ -58,11 +54,9 @@ The parentheses may include parameter names separated by commas:
 
 The code to be executed, by the function, is placed inside curly brackets: {}  
 
-      
     function name(parameter1, parameter2, parameter3) {
         code to be executed
     }
-
 
 Function **parameters** are the **names** listed in the function definition.
 
@@ -70,8 +64,9 @@ Function **arguments** are the real **values** received by the function when it 
 
 Inside the function, the arguments behave as local variables.
 
-#The New Boston   
-## Links  
+# The New Boston
+
+## Links
 
 - [Support](https://www.patreon.com/thenewboston)
 - [thenewboston.com](https://thenewboston.com/)
@@ -79,4 +74,5 @@ Inside the function, the arguments behave as local variables.
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
-> Written with [StackEdit](https://stackedit.io/).
+
+> Written with [StackEdit](https://stackedit.io/)

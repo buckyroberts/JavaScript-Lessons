@@ -1,29 +1,24 @@
-![](http://i.imgur.com/BgUMUGU.png)    
- 
+![JavaScript Lessons](http://i.imgur.com/BgUMUGU.png)
+
 # Arrow Functions
   
-This MD file serves as example/template. 
+This MD file serves as example/template.
 
 It will be filled up soon.  
 
-(for Bucky to fill up)     
+(for Bucky to fill up)
 
+## Course Documentation
 
-# Course Documentation
-
-(this for me to fill up with every element 
-
-that you use in lessons. syntax 
-
-explaination and links for more)  
+This is for me to fill up with every element that you use in lessons. Syntax explaination and links for more.
 
 ## Element to explain
 
-(for example console.log)
+for example `console.log`
 
-##Javascript functions
+## Javascript functions
 
-According to W3schools:  
+According to W3schools:
   
 A JavaScript function is a block of code designed to perform a particular task.
 
@@ -33,7 +28,7 @@ A JavaScript function is executed when "something" invokes it (calls it).
         return p1 * p2;              // The function returns the product of p1 and p2
     }
 
-###**JavaScript Function Syntax**  
+### JavaScript Function Syntax
   
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
@@ -44,11 +39,9 @@ The parentheses may include parameter names separated by commas:
 
 The code to be executed, by the function, is placed inside curly brackets: {}  
 
-      
     function name(parameter1, parameter2, parameter3) {
         code to be executed
     }
-
 
 Function **parameters** are the **names** listed in the function definition.
 
@@ -56,8 +49,9 @@ Function **arguments** are the real **values** received by the function when it 
 
 Inside the function, the arguments behave as local variables.
 
-#The New Boston   
-## Links  
+# The New Boston
+
+## Links
 
 - [Support](https://www.patreon.com/thenewboston)
 - [thenewboston.com](https://thenewboston.com/)
@@ -65,4 +59,5 @@ Inside the function, the arguments behave as local variables.
 - [Twitter](https://twitter.com/bucky_roberts)
 - [Google+](https://plus.google.com/+BuckyRoberts)
 - [reddit](https://www.reddit.com/r/thenewboston/)
-> Written with [StackEdit](https://stackedit.io/).
+
+> Written with [StackEdit](https://stackedit.io/)
