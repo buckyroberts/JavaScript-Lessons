@@ -16,7 +16,7 @@ explaination and links for more)
 
 (for example console.log)
 
-##Javascript functions
+## Javascript functions
 
 According to W3schools:  
   
@@ -28,7 +28,7 @@ A JavaScript function is executed when "something" invokes it (calls it).
         return p1 * p2;              // The function returns the product of p1 and p2
     }
 
-###**JavaScript Function Syntax**  
+### **JavaScript Function Syntax**  
   
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
@@ -51,7 +51,7 @@ Function **arguments** are the real **values** received by the function when it 
 
 Inside the function, the arguments behave as local variables.
 
-#The New Boston   
+# The New Boston   
 ## Links  
 
 - [Support](https://www.patreon.com/thenewboston)
